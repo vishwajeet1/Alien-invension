@@ -4,7 +4,9 @@ fleet of aliens as they drop down the screen.
 ## Table of Contents
 ### 1. Depenedencies  
 Python 3.6, Pygame
-
+### 2. Code
+Main program is alien_invension.py   
+and others are its modules
 
 
 
