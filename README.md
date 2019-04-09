@@ -5,8 +5,16 @@ fleet of aliens as they drop down the screen.
 ### 1. Depenedencies  
 Python 3.6, Pygame
 ### 2. Code
-Main program is alien_invension.py   
-and others are its modules
+#### alien_invension.py
+alien_invesion.py is main py file 
+#### Setting.py
+To change settings of game
+#### game_function
+working of game
+### Play
+1. To move left press LEFT key arrow key.  
+2. To move right press RIGHT arrow key.  
+3. To fire bullets press SPACE key.
 # Thank you
 Thank you for visiting this repository and looking at this project.  
 I hope you will play this game and enjoy it.    
